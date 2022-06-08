@@ -1,4 +1,3 @@
-
 # Python Project for Data Science
 
 ## About this Project
