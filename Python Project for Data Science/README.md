@@ -45,7 +45,7 @@ Extracting essential data from a dataset and displaying it is a necessary part o
 
 ## Results
 
-<img src="https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Python%20Project%20for%20Data%20Science/IMG/netflix%20stocks.png width="600" height="auto" "
+<img src="https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Python%20Project%20for%20Data%20Science/IMG/netflix%20stocks.png" width="600" height="auto">
 ![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Python%20Project%20for%20Data%20Science/IMG/amazon%20stocks.png)
 ![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Python%20Project%20for%20Data%20Science/IMG/amd%20stocks.png)
 ![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Python%20Project%20for%20Data%20Science/IMG/apple%20stocks.png)
