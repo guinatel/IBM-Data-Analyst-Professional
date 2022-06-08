@@ -46,3 +46,5 @@
 ![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Analysis%20With%20Python/Questions%20IMG/Question%208.png)
 ![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Analysis%20With%20Python/Questions%20IMG/Question%209.png)
 ![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Analysis%20With%20Python/Questions%20IMG/Question%2010.png)
+
+© 2022 Gui Natel

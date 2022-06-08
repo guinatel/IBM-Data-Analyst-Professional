@@ -18,3 +18,5 @@ This course covers some of the first steps in the development of data visualizat
 ![IBM-Dashboard-2](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cars%20sold%20per%20Month%20Compared%20to%20the%20Profit.png)
 ![IBM-Dashboard-4](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Recalls%20per%20Model.png)
 ![IBM-Dashboard-3](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Number%20of%20Recalls%20by%20Model%20and%20Affected%20System.png)
+
+© 2022 Gui Natel
