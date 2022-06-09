@@ -1,4 +1,3 @@
-
 # Data Analyst Capstone Project
 
 ## About this Project
@@ -46,6 +45,25 @@ In this course you will apply various Data Analytics skills and techniques that 
 ## PowerPoint Presentation
 
 ![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Analyst%20Capstone%20Project/PowerPoint%20Presentation/Page%201.png)
+![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Analyst%20Capstone%20Project/PowerPoint%20Presentation/Page%202.png)
+![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Analyst%20Capstone%20Project/PowerPoint%20Presentation/Page%203.png)
+![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Analyst%20Capstone%20Project/PowerPoint%20Presentation/Page%204.png)
+![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Analyst%20Capstone%20Project/PowerPoint%20Presentation/Page%205.png)
+![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Analyst%20Capstone%20Project/PowerPoint%20Presentation/Page%206.png)
+![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Analyst%20Capstone%20Project/PowerPoint%20Presentation/Page%207.png)
+![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Analyst%20Capstone%20Project/PowerPoint%20Presentation/Page%208.png)
+![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Analyst%20Capstone%20Project/PowerPoint%20Presentation/Page%209.png)
+![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Analyst%20Capstone%20Project/PowerPoint%20Presentation/Page%2010.png)
+![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Analyst%20Capstone%20Project/PowerPoint%20Presentation/Page%2011.png)
+![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Analyst%20Capstone%20Project/PowerPoint%20Presentation/Page%2012.png)
+![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Analyst%20Capstone%20Project/PowerPoint%20Presentation/Page%2013.png)
+![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Analyst%20Capstone%20Project/PowerPoint%20Presentation/Page%2014.png)
+![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Analyst%20Capstone%20Project/PowerPoint%20Presentation/Page%2015.png)
+![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Analyst%20Capstone%20Project/PowerPoint%20Presentation/Page%2016.png)
+![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Analyst%20Capstone%20Project/PowerPoint%20Presentation/Page%2017.png)
+![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Analyst%20Capstone%20Project/PowerPoint%20Presentation/Page%2018.png)
+![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Analyst%20Capstone%20Project/PowerPoint%20Presentation/Page%2019.png)
+![](https://raw.githubusercontent.com/guinatel/IBM-Data-Analyst-Professional/main/Data%20Analyst%20Capstone%20Project/PowerPoint%20Presentation/Page%2020.png)
 
-
+© 2022 Gui Natel
 
